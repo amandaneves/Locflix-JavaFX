@@ -1,4 +1,4 @@
-# Locflix JavaFX
+# Locflix JavaFX (Locadora de Filmes)
 
 Projeto feito para Trabalho de Conclusão de Curso em 2017 (Análise de Usabilidade e Código Fonte entre aplicações JavaFX e Swing).
 
